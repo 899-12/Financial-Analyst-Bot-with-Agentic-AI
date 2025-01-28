@@ -1,0 +1,13 @@
+phidata 
+phi
+python-dotenv
+yfinance
+packaging
+duckduckgo-search
+fastapi
+uvicorn
+groq
+openai
+Gemini
+google-generativeai
+python-multipart
